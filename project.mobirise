@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Altitude Events",
-    "currentPage": "home.html",
+    "currentPage": "page18.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13447,7 +13447,7 @@
             },
             "H2": {
               "text-align": "left",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_name": "info2",
