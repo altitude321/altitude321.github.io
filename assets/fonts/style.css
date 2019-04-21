@@ -3,6 +3,10 @@
    src: url('impact/font.ttf');
 }
 @font-face {
+   font-family: 'Esta Regular';
+   src: url('Esta Regular/font.ttf');
+}
+@font-face {
    font-family: 'Century Gothic';
    src: url('Century Gothic/font.ttf');
 }
